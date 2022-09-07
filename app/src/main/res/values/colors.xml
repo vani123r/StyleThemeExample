@@ -2,8 +2,21 @@
 <resources>
 
     <!-- Default Android colors -->
-    <color name="colorPrimary">#008577</color>
-    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorPrimary">#ff80ab</color>
+
+    <color name="primaryLightColor">#ffb2dd</color>
+
+    <color name="primaryDarkColor">#c94f7c</color>
+
+    <color name="secondaryColor">#c5e1a5</color>
+
+    <color name="secondaryLightColor">#f8ffd7</color>
+
+    <color name="secondaryDarkColor">#94af76</color>
+
+    <color name="primaryTextColor">#000000</color>
+
+    <color name="secondaryTextColor">#000000</color>
     <color name="colorAccent">#D81B60</color>
 
     <!-- Color codes for pink mode -->
@@ -19,5 +32,6 @@
     <color name="colorBackground">#EEEEEE</color>
 
     <color name="colorGrey">#666B6B</color>
+
 
 </resources>
